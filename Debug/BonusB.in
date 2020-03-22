@@ -1,0 +1,17 @@
+400 400
+
+ambient 0.5 0.5 0.5
+viewport -.8 .8 -.8 .8
+object teapot.asc 1.0 0.0 0.0 0.4  0.6  30
+
+observer 10 10 10 0 0 0 0 .1 1000 15
+
+background 0.5 0.5 0.0
+
+light 1 1.0 1 1 2.0 2.0 2.0
+display
+
+light 2 .8 .7 .7 0.0 10.0 0.0
+display
+
+end

@@ -1,0 +1,27 @@
+﻿  Bonus_Gouraud_106502512.cpp
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(166): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(167): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(304): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(350): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(351): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(400): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(416): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(427): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(428): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(430): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(431): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(569): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(595): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(644): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(709): warning C4305: '*=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(717): warning C4305: '*=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(725): warning C4305: '*=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(779): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(858): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(875): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(909): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(910): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(1012): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(1022): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\2019cg_bonus_gouraud_106502512\2019cg_bonus_gouraud_106502512\bonus_gouraud_106502512.cpp(1023): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  2019CG_Bonus_Gouraud_106502512.vcxproj -> C:\Users\user\source\repos\2019CG_Bonus_Gouraud_106502512\Debug\2019CG_Bonus_Gouraud_106502512.exe
